@@ -12,6 +12,6 @@ This is also known as "univariate linear regression"
 
 General Form:
 
-![alt text] (http://mathurl.com/p5wtf9m)
+![alt text] (http://www.sciweavers.org/tex2img.php?eq=h_%7B%5Ctheta%7D%28x%29%20%3D%20%5Ctheta_%7B0%7D%20%2B%20%5Ctheta_%7B1%7D%28x%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 
