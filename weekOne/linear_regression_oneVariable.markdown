@@ -12,6 +12,6 @@ This is also known as "univariate linear regression"
 
 General Form:
 
-![alt tag] (http://mathurl.com/p5wtf9m)
+![alt text] (http://mathurl.com/p5wtf9m)
 
 
